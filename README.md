@@ -40,4 +40,3 @@ Desenvolvido por Grazielle Maciel.
 
 ---
 
-## 📂 Estrutura do projet
